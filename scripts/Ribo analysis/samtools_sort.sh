@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================================
-# Script: 05_samtools_sort.sh
+# Script: samtools_sort.sh
 # Purpose: Sort STAR output BAM files (S2 cells)
 # Input:   STAR BAM files (*Aligned.sortedByCoord.out.bam)
 # Output:  Sorted BAM files (*.sort.bam)
