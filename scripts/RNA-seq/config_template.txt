@@ -1,0 +1,14 @@
+# ============================================================================
+# config file template for trim_galore.sh
+# ============================================================================
+# This file should contain one sample pair per line:
+#   forward_read_path    reverse_read_path
+# 
+# Example:
+# ============================================================================
+S2-S1_1.fq.gz    S2-S1_2.fq.gz
+S2-S2_1.fq.gz    S2-S2_2.fq.gz
+S2-S3_1.fq.gz    S2-S3_2.fq.gz
+S2-V1_1.fq.gz    S2-V1_2.fq.gz
+S2-V2_1.fq.gz    S2-V2_2.fq.gz
+S2-V3_1.fq.gz    S2-V3_2.fq.gz
