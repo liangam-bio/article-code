@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================================
-# Script: 04_star_align.sh
+# Script: star_align.sh
 # Purpose: Align rRNA-depleted Ribo-seq reads to Drosophila genome using STAR
 #          S2 cells only: 3 control + 3 treatment samples
 # Input:   rRNA-depleted FASTQ files (*.rm.rRNA.fq.gz)
